@@ -1,0 +1,16 @@
+.list-container {
+  list-style: none;
+}
+.filter-button {
+  background-color: transparent;
+  border: none;
+  color: #1e293b;
+  font-weight: bold;
+  cursor: pointer;
+}
+.active-filter {
+  color: #0284c7;
+  border: 2px solid #0284c7;
+  border-radius: 15px;
+  padding: 0.3rem 0.7rem;
+}
